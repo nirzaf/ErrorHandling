@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ErrorHandling.Sender.SenderConsole" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SenderConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorHandling.Sender.Foo" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBA=</HashCode>
+      <FileName>SenderConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.ServiceBus.RetryPolicy" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
